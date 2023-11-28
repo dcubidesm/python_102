@@ -1,6 +1,7 @@
 #List comprehension
 #Example 1: list de 10 numeros
 #estructura: [element for element in iterable]
+#listas pueden ser iterables, se ordenan, se indexing/ slicing y se pueden duplicar elmentos. 
 '''
 numbers = [] 
 for element in range(1,11):
